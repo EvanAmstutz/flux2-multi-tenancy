@@ -1,0 +1,10 @@
+---
+apiVersion: v1
+kind: Secret
+metadata:
+  name: vault-auth
+  namespace: vault-ns
+stringData:
+  password: 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
+  username: EvanAmstutz
+
